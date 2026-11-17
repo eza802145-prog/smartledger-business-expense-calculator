@@ -1,0 +1,6 @@
+{
+  "name": "SmartLedger – Business Expense Calculator",
+  "description": "A clean, mobile-first business income, expense, and net profit or loss calculator in Nigerian Naira (₦) for Nigerian small business owners.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
